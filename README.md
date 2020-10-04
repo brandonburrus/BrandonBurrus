@@ -1,1 +1,1 @@
-![Brandon Burrus Profile](img.png)
+[![Brandon Burrus Profile](img.png)](https://brandonburrus.com)
